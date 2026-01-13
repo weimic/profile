@@ -1,6 +1,6 @@
 import NavBar from '@/components/nav.tsx';
-import Main from "@/components/front.tsx";
-import Sphere from "@/components/Photo";
+import Main from "@/components/front/front";
+import Sphere from "@/components/front/Photo";
 
 
 export default function Home() {

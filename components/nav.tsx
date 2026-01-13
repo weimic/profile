@@ -43,7 +43,7 @@ export default function CommandDialogDemo() {
   return (
     <>
       <div className="flex animate-fadein">
-          <Button variant="outline" onClick={() => setOpen((open) => !open)}>Win + J</Button>
+          <Button className="cursor-pointer" variant="outline" onClick={() => setOpen((open) => !open)}>Win + J</Button>
       </div>
 
       <CommandDialog open={open} onOpenChange={setOpen}>

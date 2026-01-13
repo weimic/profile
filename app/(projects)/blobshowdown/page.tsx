@@ -1,7 +1,7 @@
-import Blob from "@/components/blob.tsx";
-import BlobPics from "@/components/blobpics.tsx";
+import Blob from "@/components/blob/blob";
+import BlobPics from "@/components/blob/blobpics";
 import NavBar from '@/components/nav.tsx';
-import BlobTab from '@/components/blobinfo.tsx';
+import BlobTab from '@/components/blob/blobinfo';
 import Footer from '@/components/Footer.tsx';
 
 
