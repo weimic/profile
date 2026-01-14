@@ -25,11 +25,11 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="flex flex-wrap justify-center gap-x-20 max-w-350 border-2">
+                <div className="flex flex-wrap justify-center gap-x-20 max-w-350">
                     <Edu/>
                     <Act/>
                 </div>
-                <div className="flex flex-wrap justify-center max-w-175 gap-x-20 border-2">
+                <div className="flex flex-wrap justify-center max-w-175 gap-x-20">
                     <Comp/>
                     {/* <Volun/> */}
                 </div>
