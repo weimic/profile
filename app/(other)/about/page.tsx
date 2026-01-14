@@ -1,7 +1,7 @@
 import Main from '@/components/about/main.tsx';
 import Edu from '@/components/about/edu.tsx';
 import Act from '@/components/about/act.tsx';
-import Proj from '@/components/about/proj.tsx';
+import Comp from '@/components/about/comp';
 import Volun from '@/components/about/volun.tsx';
 import NavBar from '@/components/nav.tsx';
 import Footer from '@/components/Footer.tsx';
@@ -25,12 +25,12 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="flex flex-wrap justify-center gap-x-20">
+                <div className="flex flex-wrap justify-center gap-x-20 max-w-400">
                     <Edu/>
                     <Act/>
                 </div>
                 <div className="flex flex-wrap justify-center w-[50%] gap-x-20">
-                    <Proj/>
+                    <Comp/>
                     {/* <Volun/> */}
                 </div>
             </div>
