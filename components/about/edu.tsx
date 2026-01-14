@@ -22,7 +22,7 @@ export default function Education() {
         <Item 
             title="Relevant Coursework Taken"
             date=""
-            subtitle="Data Structures, Differential Equations, Multivariable Calculus, Linear Algebra, Introduction to Object-Oriented Programming"
+            subtitle="Data Structures & Algorithms, Discrete Mathematics, Computer Organization & Programming, Differential Equations, Multivariable Calculus, Linear Algebra, Introduction to Object-Oriented Programming"
             note=""/>
 
 
