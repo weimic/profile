@@ -11,7 +11,7 @@ export default function Education() {
             title="Georgia Institute of Technology"
             date="May 2028"
             subtitle="Bachelor of Science in Computer Science"
-            note="First-Year"/>
+            note="GPA: 4.0"/>
 
         <Item 
             title="Ward Melville High School"

@@ -8,6 +8,15 @@ export default function Comp() {
                 Competitions
         </div>
         
+
+        <ItemL
+            title="TypeFight Website"
+            date="Nov. 2025"
+            subtitle="HexDay"
+            note="React, Next.js, MongoDB Atlas, Gemini API"
+            link="https://devpost.com/software/typefight"
+            />
+        
         <ItemL
             title="Sprout Website"
             date="Nov. 2025"

@@ -69,7 +69,7 @@ export default function CommandDialogDemo() {
               </CommandItem>
             </Link>
 
-            <Link href="/MichaelWeiResume-Fall25.pdf" target="_blank" rel="noopener noreferrer">
+            <Link href="/MichaelWeiResume-Spring26.pdf" target="_blank" rel="noopener noreferrer">
               <CommandItem className="cursor-pointer">
                 <FileText style={{color:'var(--icon-color)'}}/>
                 <span>Resume</span>

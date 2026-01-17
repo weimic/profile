@@ -8,16 +8,22 @@ export default function Act() {
         </div>
 
         <Item
-            title="GTGuessr Web Developer"
-            date="Sep. 2025 - Present"
-            subtitle="WebDev@GT"
-            note="Firebase, Express.js, Next.js, Node.js, Tailwind CSS"/>
+            title="Hackathon Organizer & Software Developer"
+            date="Dec. 2025 - Present"
+            subtitle="HexLabs"
+            note="Operations Team"/>
 
         <Item
             title="Assistant Concertmaster"
             date="Aug. 2025 - Present"
             subtitle="Georgia Tech Concert Orchestra"
             note="First Violinist"/>
+
+        <Item
+            title="Full-Stack Web Developer"
+            date="Sep. 2025 - Dec. 2025"
+            subtitle="WebDev@GT"
+            note="GTGuessr"/>
 
         <Item
             title="Natural Language Processing Research Lead"
