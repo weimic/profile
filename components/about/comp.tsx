@@ -7,7 +7,13 @@ export default function Comp() {
         <div className="font-semibold text-[40px]"> 
                 Competitions
         </div>
-        
+        <ItemL
+            title="VisiUN Web Application"
+            date="Feb. 2026"
+            subtitle="Hacklytics"
+            note="React, Next.js, Three.js"
+            link="https://devpost.com/software/visiun"
+            />
 
         <ItemL
             title="TypeFight Website"
@@ -18,7 +24,7 @@ export default function Comp() {
             />
         
         <ItemL
-            title="Sprout Website"
+            title="Sprout Web Application"
             date="Nov. 2025"
             subtitle="AI ATL"
             note="React, Next.js, Firebase, Gemini API"
