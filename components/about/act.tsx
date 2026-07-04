@@ -11,7 +11,7 @@ export default function Act() {
             title="Hackathon Organizer & Software Developer"
             date="Dec. 2025 - Present"
             subtitle="HexLabs"
-            note="Operations Team"/>
+            note="Technology Team"/>
 
         <Item
             title="Assistant Concertmaster"
